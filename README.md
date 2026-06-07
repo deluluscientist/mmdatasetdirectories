@@ -3,11 +3,16 @@
 ![Myanmar Dataset Directory Cover](cover.png)
 
 
-# 🇲🇲 Myanmar Dataset Directory
+# Myanmar Dataset Directories
 
 A curated open directory of datasets about Myanmar, covering language, humanitarian, geospatial, economic, health, agriculture, transport, media, and education domains.
 
 ---
+
+# Technical report 
+
+- [Vibecoding Myanmar Datasets Directories Website 
+ ](https://www.researchgate.net/publication/406294766_Vibecoding_Myanmar_Datasets_Directories_Website)
 
 ## 📁 Dataset Collection
 
@@ -28,7 +33,7 @@ A curated open directory of datasets about Myanmar, covering language, humanitar
 
 ## 👥 Contributors
 
-- [@delulusientist](https://github.com/delulusientist)
+- [Pyae Sone Phyo ](https://github.com/delulusientist)
 
 ---
 
