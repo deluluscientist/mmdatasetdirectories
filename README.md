@@ -35,6 +35,12 @@ A curated open directory of datasets about Myanmar, covering language, humanitar
 
 - [Pyae Sone Phyo ](https://github.com/delulusientist)
 
+## UI Demo
+
+Watch a short demonstration of the Myanmar Dataset Directories platform:
+
+https://youtu.be/YKbJBumj7oA?si=E5AORCgH9LFB4ZkZ
+
 ---
 
 ## 🙏 Acknowledgements
