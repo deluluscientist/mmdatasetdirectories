@@ -1,3 +1,8 @@
+
+<!-- COVER IMAGE — replace the placeholder below with your actual banner/screenshot -->
+![Myanmar Dataset Directory Cover](cover.png)
+
+
 # 🇲🇲 Myanmar Dataset Directory
 
 A curated open directory of datasets about Myanmar, covering language, humanitarian, geospatial, economic, health, agriculture, transport, media, and education domains.
@@ -49,7 +54,6 @@ Have a dataset to suggest, a correction to report, or want to collaborate?
 
 - Email: — deluschientist@gmail.com 
 
----
 
-<!-- COVER IMAGE — replace the placeholder below with your actual banner/screenshot -->
-![Myanmar Dataset Directory Cover](https://placehold.co/1200x400?text=Myanmar+Dataset+Directory)
+
+
